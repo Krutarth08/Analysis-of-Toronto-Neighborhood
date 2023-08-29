@@ -1,10 +1,8 @@
 # Analysis-of-Toronto-Neighborhood
 
-This is a repository for IBM Data Science Capstone Project. All analysis was done by Jessica Uwoghiren.
-The datasets and Jupyter notebook used in the project is also included in this repository.
-The full report is also included in this repository. See link to blog post for a more concise report -
+The datasets and Jupyter notebook used in the project is also included in this repository as zip file because of the size of the file.
 
-Introduction
+# **Introduction**
 In 2019, 35% of new Canadian immigrants chose to settle in the City of Toronto. The City has 140 neighbourhoods, so, as a new immigrant, a vital question to answer is “What neighbourhood do I settle in?”. The aim of this project is to group Toronto neighborhoods in order of desirability using Machine Learning and Data Visualization techniques. I performed my analysis using on the following criteria:
 
 Total number of Essential Venues in each neighbourhood
