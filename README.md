@@ -17,4 +17,4 @@ Geopandas – For storing spatial data coordinates and shape files
 Scikit learn – For Machine learning tasks
 Plotly Visualization Package – For all visualizations (including maps and graphs)
 Requests - to send HTTP requests easily
-Geopy – To retrieve location coordinates
+Geopy – To retrieve location coordinates. 
